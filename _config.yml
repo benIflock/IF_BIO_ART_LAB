@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: IF BIO ART LAB
+description: A documentation and resource site for Invisible Flock's Bio Art LAb
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://beniflock.github.io/IF_BIO_ART_LAB
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
