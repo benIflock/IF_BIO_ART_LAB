@@ -1,10 +1,21 @@
---- 
+---
 title: recipes
 layout: default
-has_children: true
+parent: resources
+nav_order: 1
 ---
-# Recipes and Protocols  
+# Recipes
 
-## A list of recipes and protocols that have worked or we like
+## some tried some untested:
+
+### tested:
 
 
+### untested:
+
+nutrient agar :
+
+- 3g potato flakes
+- 2g agar
+- 1g corn syrup
+- 1/2 cup water 

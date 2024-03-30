@@ -1,7 +1,7 @@
 --- 
 title: plating bacteria
 layout: default
-parent: recipes
+parent: resources
 ---
 # Plating Bacteria  
 <img src="images/autoclave.jpg" width="20%" height="20%" >

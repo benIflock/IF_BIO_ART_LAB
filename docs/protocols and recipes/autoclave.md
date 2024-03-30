@@ -1,7 +1,7 @@
 ---
 title: autoclave
 layout: default
-parent: recipes
+parent: resources
 ---
 
 # AUTOCLAVE
@@ -16,8 +16,6 @@ This is a process required to sterilise equipment and as part of protocols. It i
 - ensure that the plate is in the bottom to raise the equipment off the floor of the pot
 - full with 1L of water
 - place equipment inside
-- for sterlising liquids (nutrient agar for example) place liquid (37g Agar per L of Water)
-- place in beaker, tighten top then crack it slightly again to allow air to escape
 - close pressure cooker and turn up heat high
 - the water will start to boil and steam will begin to esacpe from the valve
 - after 10 minutes or so of steam escaping the inside of the pot has turned to a hot steam environment
