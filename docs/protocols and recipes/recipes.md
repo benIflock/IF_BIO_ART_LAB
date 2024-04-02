@@ -15,7 +15,7 @@ nav_order: 1
 
 nutrient agar :
 
-- 3g potato flakes
-- 2g agar
-- 1g corn syrup
-- 1/2 cup water 
+|nutritional yeast| agar-agar | corn syrup | water|
+|2 g| 20g | 20g| 1l|
+
+##### 750ml fills 25X90mm plates

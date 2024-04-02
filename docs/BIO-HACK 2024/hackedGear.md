@@ -10,3 +10,4 @@ parent: bio-hack
 - [incubator](incubator)
 - centrigfuge (WIP)
 - bio-reactor (WIP)
+- induction steriliser (WIP)
