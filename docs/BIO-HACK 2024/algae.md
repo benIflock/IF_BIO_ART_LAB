@@ -11,3 +11,4 @@ parent: biohack2024
 
 in progress:
 - bio reactor growing two types in medium
+- measure CO2 in jar - hoping for 
