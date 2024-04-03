@@ -13,12 +13,13 @@ Where appropirate there will be links to documentation
 - hobs
 - flow hoods
 - de-hydrator
-- incubator
+- [incubator](incubator)
 - fridge
 - autoclave (pressure-cooker)
 - bunsen-burner
 - sous-vide
 - bain-marie
 - fermentation chamber
-- microscopes (slide)
-- microscope-stereo
+- [microscopes (slide)](microscopes)
+- [microscope-stereo](microscopes)
+- centrifuge
