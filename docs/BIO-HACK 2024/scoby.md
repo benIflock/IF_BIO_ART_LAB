@@ -1,7 +1,7 @@
 ---
 title: scoby
 layout: default
-parent: biohack2024
+parent: bio-hack
 ---
 # SCOBY
 ### Symbiotic Culture of Bacteria and Yeast

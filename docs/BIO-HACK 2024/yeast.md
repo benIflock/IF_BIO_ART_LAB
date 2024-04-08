@@ -1,7 +1,7 @@
 ---
 title: yeast
 layout: default
-parent: biohack2024
+parent: bio-hack
 ---
 # Yeast
 

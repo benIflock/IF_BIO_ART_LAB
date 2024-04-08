@@ -1,7 +1,7 @@
 ---
 title: algae
 layout: default
-parent: biohack2024
+parent: bio-hack
 ---
 # Algae
 
