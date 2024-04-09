@@ -3,7 +3,8 @@ title: plating bacteria
 layout: default
 parent: resources
 ---
-# Plating Bacteria  
+# Plating Bacteria 
+ 
 <img src="images/autoclave.jpg" width="20%" height="20%" >
 
 In order to plate bacteria it is important that the media receiving it is sterile so that the introduced bacteria is the only one present.  
