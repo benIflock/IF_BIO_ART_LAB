@@ -1,11 +1,12 @@
 --- 
 title: beer
 layout: default
+parent: resources
 ---
 # Beer and wild ferments
 
 ### Beer is its own microbial marvel that proposes a multitude of ways of entangling the visible and invisible world around us with culture
-
+This is a list of the basic steps involved in making beer with a view to this being expanded as a practice beyond the simple (but important) act of making beer.
 #### basic steps:
 
 - sanitation : cleaning all the gear
